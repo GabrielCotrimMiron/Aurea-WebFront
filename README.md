@@ -62,11 +62,9 @@ frontend-universidade-2/
 ├── login/
 │   ├── cadastro.html
 │   ├── login.css
-│   └── login.js
 ├── main/
 │   ├── main.html
 │   ├── main.css
-│   └── main.js
 ├── shared/
 │   └── base.css
 ├── index.html
