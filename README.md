@@ -88,21 +88,49 @@ frontend-universidade-2/
 
 ## 🌐 Acesso ao projeto
 
-- **[Página de login](https://budnyy.github.io/frontend-universidade-2/index.html)**
-- **[Página de cadastro](https://budnyy.github.io/frontend-universidade-2/login/cadastro.html)**
-- **[Página principal](https://budnyy.github.io/frontend-universidade-2/main/main.html)**
+- **[Página de login]()**
+- **[Página de cadastro]()**
+- **[Página principal]()**
 
 ---
 
-## ✅ Validação do código
+## 📝 Validações do Projeto
 
-O código HTML e CSS deve ser validado pelos serviços oficiais do W3C:
+### 🌐 Validação HTML (W3C)
+<table>
+  <tr>
+    <td align="center">
+      <img src="https://github.com/GabrielCotrimMiron/Aurea-WebFront/blob/main/validacaoHtml_1.png" width="32%" alt="Validação HTML 1"><br>
+      <sub><b>Página Inicial</b></sub>
+    </td>
+    <td align="center">
+      <img src="https://github.com/GabrielCotrimMiron/Aurea-WebFront/blob/main/validacaoHtml_2.png" width="32%" alt="Validação HTML 2"><br>
+      <sub><b>Página Sobre</b></sub>
+    </td>
+    <td align="center">
+      <img src="https://github.com/GabrielCotrimMiron/Aurea-WebFront/blob/main/validacaoHtml_3.png" width="32%" alt="Validação HTML 3"><br>
+      <sub><b>Página Contato</b></sub>
+    </td>
+  </tr>
+</table>
 
-- [Validador HTML — W3C](https://validator.w3.org/)
-- [Validador CSS — W3C](https://jigsaw.w3.org/css-validator/)
-
-As capturas de tela dos resultados devem corresponder à versão final dos arquivos publicados.
-
+### 🎨 Validação CSS (W3C)
+<table>
+  <tr>
+    <td align="center">
+      <img src="https://github.com/GabrielCotrimMiron/Aurea-WebFront/blob/main/validacaoCss_1.png" width="32%" alt="Validação CSS 1"><br>
+      <sub><b>Estilo Geral</b></sub>
+    </td>
+    <td align="center">
+      <img src="https://github.com/GabrielCotrimMiron/Aurea-WebFront/blob/main/validacaoCss_2.png" width="32%" alt="Validação CSS 2"><br>
+      <sub><b>Responsividade</b></sub>
+    </td>
+    <td align="center">
+      <img src="https://github.com/GabrielCotrimMiron/Aurea-WebFront/blob/main/validacaoCss_3.png" width="32%" alt="Validação CSS 3"><br>
+      <sub><b>Animações</b></sub>
+    </td>
+  </tr>
+</table>
 ---
 
 ## 👥 Integrantes
