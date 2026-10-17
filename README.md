@@ -126,6 +126,7 @@ frontend-universidade-2/
     </td>
   </tr>
 </table>
+
 ---
 
 ## 👥 Integrantes
