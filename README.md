@@ -101,15 +101,15 @@ frontend-universidade-2/
   <tr>
     <td align="center">
       <img src="https://github.com/GabrielCotrimMiron/Aurea-WebFront/blob/main/validacaoHtml_1.png" width="32%" alt="Validação HTML 1"><br>
-      <sub><b>Página Inicial</b></sub>
+  
     </td>
     <td align="center">
       <img src="https://github.com/GabrielCotrimMiron/Aurea-WebFront/blob/main/validacaoHtml_2.png" width="32%" alt="Validação HTML 2"><br>
-      <sub><b>Página Sobre</b></sub>
+      
     </td>
     <td align="center">
       <img src="https://github.com/GabrielCotrimMiron/Aurea-WebFront/blob/main/validacaoHtml_3.png" width="32%" alt="Validação HTML 3"><br>
-      <sub><b>Página Contato</b></sub>
+    
     </td>
   </tr>
 </table>
@@ -119,15 +119,15 @@ frontend-universidade-2/
   <tr>
     <td align="center">
       <img src="https://github.com/GabrielCotrimMiron/Aurea-WebFront/blob/main/validacaoCss_1.png" width="32%" alt="Validação CSS 1"><br>
-      <sub><b>Estilo Geral</b></sub>
+     
     </td>
     <td align="center">
       <img src="https://github.com/GabrielCotrimMiron/Aurea-WebFront/blob/main/validacaoCss_2.png" width="32%" alt="Validação CSS 2"><br>
-      <sub><b>Responsividade</b></sub>
+      
     </td>
     <td align="center">
       <img src="https://github.com/GabrielCotrimMiron/Aurea-WebFront/blob/main/validacaoCss_3.png" width="32%" alt="Validação CSS 3"><br>
-      <sub><b>Animações</b></sub>
+     
     </td>
   </tr>
 </table>
