@@ -100,34 +100,29 @@ frontend-universidade-2/
 <table>
   <tr>
     <td align="center">
-      <img src="https://github.com/GabrielCotrimMiron/Aurea-WebFront/blob/main/validacaoHtml_1.png" width="32%" alt="Validação HTML 1"><br>
-  
+      <img src="https://githubusercontent.com" width="100%" alt="Validação HTML 1">
     </td>
     <td align="center">
-      <img src="https://github.com/GabrielCotrimMiron/Aurea-WebFront/blob/main/validacaoHtml_2.png" width="32%" alt="Validação HTML 2"><br>
-      
+      <img src="https://githubusercontent.com" width="100%" alt="Validação HTML 2">
     </td>
     <td align="center">
-      <img src="https://github.com/GabrielCotrimMiron/Aurea-WebFront/blob/main/validacaoHtml_3.png" width="32%" alt="Validação HTML 3"><br>
-    
+      <img src="https://githubusercontent.com" width="100%" alt="Validação HTML 3">
     </td>
   </tr>
 </table>
 
 ### 🎨 Validação CSS (W3C)
+
 <table>
   <tr>
     <td align="center">
-      <img src="https://github.com/GabrielCotrimMiron/Aurea-WebFront/blob/main/validacaoCss_1.png" width="32%" alt="Validação CSS 1"><br>
-     
+      <img src="https://githubusercontent.com" width="100%" alt="Validação CSS 1">
     </td>
     <td align="center">
-      <img src="https://github.com/GabrielCotrimMiron/Aurea-WebFront/blob/main/validacaoCss_2.png" width="32%" alt="Validação CSS 2"><br>
-      
+      <img src="https://githubusercontent.com" width="100%" alt="Validação CSS 2">
     </td>
     <td align="center">
-      <img src="https://github.com/GabrielCotrimMiron/Aurea-WebFront/blob/main/validacaoCss_3.png" width="32%" alt="Validação CSS 3"><br>
-     
+      <img src="https://githubusercontent.com" width="100%" alt="Validação CSS 3">
     </td>
   </tr>
 </table>
