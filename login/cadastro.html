@@ -1,0 +1,73 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="description" content="Cadastro na Áurea Energia Sustentável.">
+
+    <title>Cadastro | Áurea Energia Sustentável</title>
+
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link
+        href="https://fonts.googleapis.com/css2?family=Inter:ital,opsz,wght@0,14..32,100..900;1,14..32,100..900&family=Montserrat:wght@700;800&family=Space+Grotesk:wght@300..700&display=swap"
+        rel="stylesheet">
+    <link rel="icon" href="../assets/icone.png" type="image/png">
+
+    <link rel="stylesheet" href="../shared/base.css">
+    <link rel="stylesheet" href="login.css">
+</head>
+
+<body>
+    <main id="mainContainer">
+        <header class="auth-header">
+            <p class="auth-brand">Áurea</p>
+            <p class="auth-tagline">
+                Energia que nasce do sol. Futuro que cresce com você.
+            </p>
+        </header>
+
+        <section class="auth-section" aria-labelledby="registerTitle">
+            <h1 id="registerTitle" class="auth-title">Criar conta</h1>
+
+            <form class="auth-form" action="../index.html" method="get">
+                <div>
+                    <label for="nameInput">Nome completo</label>
+                    <input type="text" id="nameInput" autocomplete="name" placeholder="Digite seu nome" required>
+                </div>
+
+                <div>
+                    <label for="ageInput">Idade</label>
+                    <input type="number" id="ageInput" min="1" max="120" placeholder="Digite sua idade" required>
+                </div>
+
+                <div>
+                    <label for="emailInput">E-mail</label>
+                    <input type="email" id="emailInput" autocomplete="email" placeholder="seu@email.com" required>
+                </div>
+
+                <div>
+                    <label for="passwordInput">Senha</label>
+                    <input type="password" id="passwordInput" autocomplete="new-password" placeholder="Crie uma senha"
+                        required>
+                </div>
+
+                <div>
+                    <label for="passwordConfirmInput">Confirmar senha</label>
+                    <input type="password" id="passwordConfirmInput" autocomplete="new-password"
+                        placeholder="Digite a senha novamente" required>
+                </div>
+
+                <button type="submit">Cadastrar</button>
+            </form>
+
+            <p class="auth-switch">
+                Já tem uma conta?
+                <a href="../index.html">Fazer login</a>
+            </p>
+        </section>
+    </main>
+</body>
+
+</html>

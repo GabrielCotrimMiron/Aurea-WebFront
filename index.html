@@ -1,0 +1,57 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="description" content="Acesse a Áurea Energia Sustentável.">
+    <link rel="icon" href="../assets/icone.png" type="image/png">
+
+    <title>Login | Áurea Energia Sustentável</title>
+
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link
+        href="https://fonts.googleapis.com/css2?family=Inter:ital,opsz,wght@0,14..32,100..900;1,14..32,100..900&family=Montserrat:wght@700;800&family=Space+Grotesk:wght@300..700&display=swap"
+        rel="stylesheet">
+
+    <link rel="stylesheet" href="shared/base.css">
+    <link rel="stylesheet" href="login/login.css">
+</head>
+
+<body>
+    <main id="mainContainer">
+        <header class="auth-header">
+            <p class="auth-brand">Áurea</p>
+            <p class="auth-tagline">
+                Energia que nasce do sol. Futuro que cresce com você.
+            </p>
+        </header>
+
+        <section class="auth-section" aria-labelledby="loginTitle">
+            <h1 id="loginTitle" class="auth-title">Entrar</h1>
+
+            <form class="auth-form" action="main/main.html" method="get">
+                <div>
+                    <label for="emailInputLogin">E-mail</label>
+                    <input type="email" id="emailInputLogin" autocomplete="email" placeholder="seu@email.com" required>
+                </div>
+
+                <div>
+                    <label for="passwordInputLogin">Senha</label>
+                    <input type="password" id="passwordInputLogin" autocomplete="current-password"
+                        placeholder="Digite sua senha" required>
+                </div>
+
+                <button type="submit">Entrar</button>
+            </form>
+
+            <p class="auth-switch">
+                Não tem uma conta?
+                <a href="./login/">Cadastre-se</a>
+            </p>
+        </section>
+    </main>
+</body>
+
+</html>
