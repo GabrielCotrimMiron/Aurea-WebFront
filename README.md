@@ -85,10 +85,9 @@ frontend-universidade-2/
 
 ## 🌐 Acesso ao projeto
 
-- **[Página de login]()**
-- **[Página de cadastro]()**
-- **[Página principal]()**
-
+- **[Página de login](https://gabrielcotrimmiron.github.io/Aurea-WebFront/)**
+- **[Página de cadastro](https://gabrielcotrimmiron.github.io/Aurea-WebFront/login/cadastro.html)**
+- **[Página principal](https://gabrielcotrimmiron.github.io/Aurea-WebFront/main/main.html)**
 ---
 
 ## 📝 Validações do Projeto
