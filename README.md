@@ -82,7 +82,6 @@ frontend-universidade-2/
 - `main/main.css`: estilos específicos da página principal.
 - `shared/base.css`: estilos e variáveis compartilhados.
 - `assets/`: imagens e ícones utilizados no site.
-- `login.js` e `main.js`: arquivos mantidos para o desenvolvimento das funcionalidades previstas para a etapa seguinte.
 
 ---
 
